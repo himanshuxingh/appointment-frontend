@@ -1,0 +1,8 @@
+.todo-background{
+  background-image: url(../public/images/bg-img.jpg);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* filter: blur(1px); */
+}
